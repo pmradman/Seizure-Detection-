@@ -1,0 +1,12 @@
+# data files - too large for GitHub
+data/
+*.edf
+*.edf.gz
+
+# python environment
+neuro/
+__pycache__/
+*.pyc
+
+# jupyter checkpoints
+.ipynb_checkpoints/
